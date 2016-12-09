@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\AndroidStudioWorkspace\\MVP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioWorkspace\\MVP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkspace\\MVP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_home_black_24dp.png",
+        "source": "E:\\AndroidStudioWorkspace\\MVP\\app\\src\\main\\res\\mipmap-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkspace\\MVP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_menu_black_24dp.png",
+        "source": "E:\\AndroidStudioWorkspace\\MVP\\app\\src\\main\\res\\mipmap-hdpi\\ic_menu_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkspace\\MVP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_file_download_black_24dp.png",
+        "source": "E:\\AndroidStudioWorkspace\\MVP\\app\\src\\main\\res\\mipmap-hdpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkspace\\MVP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_more_horiz_black_24dp.png",
+        "source": "E:\\AndroidStudioWorkspace\\MVP\\app\\src\\main\\res\\mipmap-hdpi\\ic_more_horiz_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkspace\\MVP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_favorite_black_24dp.png",
+        "source": "E:\\AndroidStudioWorkspace\\MVP\\app\\src\\main\\res\\mipmap-hdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkspace\\MVP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_settings_black_24dp.png",
+        "source": "E:\\AndroidStudioWorkspace\\MVP\\app\\src\\main\\res\\mipmap-hdpi\\ic_settings_black_24dp.png"
+    }
+]
